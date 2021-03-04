@@ -2,6 +2,6 @@
 
 ## Image Includes 
 
-ubuntu: 19.10.
-python: 3.7.5
+ubuntu: 20.04
+python: 3.8
 libre office: 6.3.2
